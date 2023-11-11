@@ -3,8 +3,8 @@
 ## Project Structure
 
 - **Graph Files:** Contains Gephi graph files for positive and negative edges.
-  - [positive_edges.gephi](Graph%20Files/positive_edges.gephi): Gephi graph file for positive edges.
-  - [negative_edges.gephi](Graph%20Files/negative_edges.gephi): Gephi graph file for negative edges.
+  - [positive_edges.gephi](Graph%20Files/Positive_edges.gephi): Gephi graph file for positive edges.
+  - [negative_edges.gephi](Graph%20Files/Negative_edges.gephi): Gephi graph file for negative edges.
 
 - **Screenshots:** Contains screenshots of node-link diagrams for both positive and negative edges.
   - **Positive:**
@@ -12,7 +12,7 @@
     - [OpenOrd.png](Screenshots/Positive/OpenOrd.png)
     - [Yifan Hu.png](Screenshots/Positive/Yifan%20Hu.png)
   - **Negative:**
-    - [Fruchterman Reingold.png](Screenshots/Negative/Layout1.png)
+    - [Fruchterman Reingold.png](Screenshots/Negative/Fruchterman%20Reingold.png)
     - [Force Atlas2.png](Screenshots/Negative/Force%20Atlas2.png)
     - [Yifan Hu.png](Screenshots/Negative/Yifan%20Hu.png)
     - [Yifan Hu Proportional.png](Screenshots/Negative/Yifan%20Hu%20Proportional.png)
