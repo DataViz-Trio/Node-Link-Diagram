@@ -22,7 +22,7 @@
   - [negative_edges.csv](Data/negative_edges.csv): CSV file for negative edges.
   - [nodes.csv](Data/nodes.csv): CSV file containing node information.
 
-  - IPython Notebook for data preprocessing:
+- IPython Notebook for data preprocessing:
   - [preprocessing.ipynb](preprocessing.ipynb)
 
 ## Dataset Description
